@@ -1,2 +1,2 @@
 # tareasy archivos de Python
-Repositorio personal para curso de Python
+Repositorio personal para curso de Python Nine hub
